@@ -1,0 +1,36 @@
+
+DIV.main {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+DIV.main TABLE {
+  border: 1px solid black;
+  border-collapse: separate;
+}
+
+DIV.main TABLE.table1 {
+  float: left;
+  width: 45%;
+  border: 1px solid black;
+}
+
+DIV.main TABLE.table2 {
+  float: right;
+  width: 45%;
+}
+
+td {
+
+  border: 1.5px solid black;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+h2 {
+  text-align: center;
+}
